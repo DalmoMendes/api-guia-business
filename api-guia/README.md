@@ -1,6 +1,6 @@
 # API Guia-Business - Boa Vista-RR
 
-## Requirements
+## Recursos básicos
 
 * Windows/Linux
 * Git
@@ -8,7 +8,7 @@
 * Eclipse/IntelliJ Community
 * PostgreSQl
 
-## DataBase PostgreSQL
+## Banco de Dados PostgreSQL
 
 + Criar o Banco de dados no PostgreSQL
 + Nome do banco: apibusiness
@@ -25,3 +25,5 @@
 + Spring Web
 + Spring Data JPA
 + PostgreSQL Driver
+
+by Dalmo Mendes - Projeto DIO
